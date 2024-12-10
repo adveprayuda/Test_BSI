@@ -1,0 +1,14 @@
+C:\Project\Tes Lamar Kerja\BSI_Test\BSI_Test\bin\Debug\net8.0\BSI_Test.exe
+C:\Project\Tes Lamar Kerja\BSI_Test\BSI_Test\bin\Debug\net8.0\BSI_Test.deps.json
+C:\Project\Tes Lamar Kerja\BSI_Test\BSI_Test\bin\Debug\net8.0\BSI_Test.runtimeconfig.json
+C:\Project\Tes Lamar Kerja\BSI_Test\BSI_Test\bin\Debug\net8.0\BSI_Test.dll
+C:\Project\Tes Lamar Kerja\BSI_Test\BSI_Test\bin\Debug\net8.0\BSI_Test.pdb
+C:\Project\Tes Lamar Kerja\BSI_Test\BSI_Test\obj\Debug\net8.0\BSI_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Tes Lamar Kerja\BSI_Test\BSI_Test\obj\Debug\net8.0\BSI_Test.AssemblyInfoInputs.cache
+C:\Project\Tes Lamar Kerja\BSI_Test\BSI_Test\obj\Debug\net8.0\BSI_Test.AssemblyInfo.cs
+C:\Project\Tes Lamar Kerja\BSI_Test\BSI_Test\obj\Debug\net8.0\BSI_Test.csproj.CoreCompileInputs.cache
+C:\Project\Tes Lamar Kerja\BSI_Test\BSI_Test\obj\Debug\net8.0\BSI_Test.dll
+C:\Project\Tes Lamar Kerja\BSI_Test\BSI_Test\obj\Debug\net8.0\refint\BSI_Test.dll
+C:\Project\Tes Lamar Kerja\BSI_Test\BSI_Test\obj\Debug\net8.0\BSI_Test.pdb
+C:\Project\Tes Lamar Kerja\BSI_Test\BSI_Test\obj\Debug\net8.0\BSI_Test.genruntimeconfig.cache
+C:\Project\Tes Lamar Kerja\BSI_Test\BSI_Test\obj\Debug\net8.0\ref\BSI_Test.dll
